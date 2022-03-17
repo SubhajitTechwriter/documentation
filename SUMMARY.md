@@ -9,11 +9,14 @@
   * [Select how to handle incoming data](salesforce/salesforce-source/select-how-to-handle-incoming-data.md)
   * [Configure your external event](salesforce/salesforce-source/configure-your-external-event.md)
   * [Salesforce overview](salesforce/salesforce-source/salesforce-overview.md)
-  * [Configure your Salesforce account settings](salesforce/salesforce-source/configure-your-salesforce-account-settings.md)
+  * [Select your Salesforce account type](salesforce/salesforce-source/select-your-salesforce-account-type.md)
+  * [Configure your Salesforce.com account](salesforce/salesforce-source/configure-your-salesforce-account-settings.md)
+  * [Configure your Salesforce.com dynamic account](salesforce/salesforce-source/configure-your-salesforce.com-dynamic-account.md)
   * [Select your Salesforce object type](salesforce/salesforce-source/select-your-salesforce-object-type.md)
 * [Salesforce Target](salesforce/salesforce-target/README.md)
   * [Salesforce overview](salesforce/salesforce-target/salesforce-overview.md)
-  * [Configure your Salesforce account settings](salesforce/salesforce-target/configure-your-salesforce-account-settings.md)
+  * [Configure your Salesforce.com account](salesforce/salesforce-target/configure-your-salesforce-account-settings.md)
+  * [Configure your Salesforce.com dynamic account](salesforce/salesforce-target/configure-your-salesforce.com-dynamic-account.md)
   * [Select your Salesforce object type](salesforce/salesforce-target/select-your-salesforce-object-type.md)
 
 ## Box

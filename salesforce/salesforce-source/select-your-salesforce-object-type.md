@@ -14,6 +14,8 @@ Select the Salesforce **Object type** from where your data will be sourced for t
 
 You can also choose any of the available object types by clicking **Find another object** and selecting the required one from dropdown list.
 
+Use the **Filter Data** option to filter the incoming data uploaded by the source endpoint. Once a filter is applied, you can view it in the **Data Wrangler** and further edit the filter condition.
+
 {% hint style="info" %}
 You can select only a single object type per integration.
 {% endhint %}
