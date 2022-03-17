@@ -15,6 +15,7 @@
   * [Select your Salesforce object type](salesforce/salesforce-source/select-your-salesforce-object-type.md)
 * [Salesforce Target](salesforce/salesforce-target/README.md)
   * [Salesforce overview](salesforce/salesforce-target/salesforce-overview.md)
+  * [Copy of Select your Salesforce account type](salesforce/salesforce-target/copy-of-select-your-salesforce-account-type.md)
   * [Configure your Salesforce.com account](salesforce/salesforce-target/configure-your-salesforce-account-settings.md)
   * [Configure your Salesforce.com dynamic account](salesforce/salesforce-target/configure-your-salesforce.com-dynamic-account.md)
   * [Select your Salesforce object type](salesforce/salesforce-target/select-your-salesforce-object-type.md)
