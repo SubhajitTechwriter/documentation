@@ -27,16 +27,16 @@
   * [Configure your Box account settings](box/box-target/trg\_box\_account\_settings.md)
   * [Select your Box data collection type](box/box-target/trg\_box\_file\_type.md)
 
-## Google Sheets <a href="#google_sheets" id="google_sheets"></a>
+## Google Sheets
 
-* [Google Sheets Source](google\_sheets/google-sheets-source/README.md)
-  * [Google Sheets overview](google\_sheets/google-sheets-source/google-sheets-overview.md)
-  * [Configure your Google Sheets account](google\_sheets/google-sheets-source/configure-your-google-sheets-account.md)
-  * [Enter your Google Spreadsheet information](google\_sheets/google-sheets-source/enter-your-google-spreadsheet-information.md)
-* [Google Sheets Target](google\_sheets/google-sheets-target/README.md)
-  * [Google Sheets overview](google\_sheets/google-sheets-target/google-sheets-overview.md)
-  * [Configure your Google Sheets account](google\_sheets/google-sheets-target/configure-your-google-sheets-account.md)
-  * [Enter your Google Spreadsheet information](google\_sheets/google-sheets-target/enter-your-google-spreadsheet-information.md)
+* [Google Sheets Source](google-sheets/google-sheets-source/README.md)
+  * [Google Sheets overview](google-sheets/google-sheets-source/google-sheets-overview.md)
+  * [Configure your Google Sheets account](google-sheets/google-sheets-source/configure-your-google-sheets-account.md)
+  * [Enter your Google Spreadsheet information](google-sheets/google-sheets-source/enter-your-google-spreadsheet-information.md)
+* [Google Sheets Target](google-sheets/google-sheets-target/README.md)
+  * [Google Sheets overview](google-sheets/google-sheets-target/google-sheets-overview.md)
+  * [Configure your Google Sheets account](google-sheets/google-sheets-target/configure-your-google-sheets-account.md)
+  * [Enter your Google Spreadsheet information](google-sheets/google-sheets-target/enter-your-google-spreadsheet-information.md)
 
 ## REST
 
@@ -182,15 +182,15 @@
 
 * [Salesforce Upsert Target](salesforce-upsert/salesforce-upsert-target/README.md)
   * [Salesforce Upsert overview](salesforce-upsert/salesforce-upsert-target/salesforce-upsert-overview.md)
-  * [Configure Salesforce Upsert account settings](salesforce-upsert/salesforce-upsert-target/configure-salesforce-upsert-account-settings.md)
-  * [Enter Salesforce Upsert settings](salesforce-upsert/salesforce-upsert-target/enter-salesforce-upsert-settings.md)
+  * [Configure your Salesforce Upsert account](salesforce-upsert/salesforce-upsert-target/configure-your-salesforce-upsert-account.md)
+  * [Enter your Salesforce Upsert settings](salesforce-upsert/salesforce-upsert-target/enter-your-salesforce-upsert-settings.md)
 
 ## Email Sender
 
 * [Email Sender Target](email-sender/email-sender-target/README.md)
   * [Email Sender overview](email-sender/email-sender-target/email-sender-overview.md)
-  * [Configure Email Sender settings](email-sender/email-sender-target/configure-email-sender-settings.md)
-  * [Configure the Email Sender account settings](email-sender/email-sender-target/configure-the-email-sender-account-settings.md)
+  * [Configure your Email Sender account](email-sender/email-sender-target/configure-your-email-sender-account.md)
+  * [Enter your Email Sender settings](email-sender/email-sender-target/enter-your-email-sender-settings.md)
 
 ***
 
