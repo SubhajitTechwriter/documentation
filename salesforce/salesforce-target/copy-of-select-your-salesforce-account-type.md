@@ -1,4 +1,4 @@
-# Copy of Select your Salesforce account type
+# Select your Salesforce account type
 
 1. Select the project **Location** to save your account information. The default shared option will share the account with all the other Flows' users.
 2. Select any of the following Account Types:
