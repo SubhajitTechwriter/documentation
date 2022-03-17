@@ -138,11 +138,15 @@
 
 * [Jira Source](jira/jira-source/README.md)
   * [Jira overview](jira/jira-source/jira-overview.md)
-  * [Enter your Jira account information](jira/jira-source/enter-your-jira-account-information.md)
+  * [Select your Jira account type](jira/jira-source/select-your-jira-account-type.md)
+  * [Configure your Jira basic auth account](jira/jira-source/enter-your-jira-account-information.md)
+  * [Configure your Jira anonymous account](jira/jira-source/configure-your-jira-anonymous-account.md)
   * [Select your Jira data source type](jira/jira-source/select-your-jira-data-source-type.md)
 * [Jira Target](jira/jira-target/README.md)
   * [Jira overview](jira/jira-target/jira-overview.md)
-  * [Enter your Jira account information](jira/jira-target/enter-your-jira-account-information.md)
+  * [Select your Jira account type](jira/jira-target/select-your-jira-account-type.md)
+  * [Configure your Jira basic auth account](jira/jira-target/enter-your-jira-account-information.md)
+  * [Configure your Jira anonymous account](jira/jira-target/configure-your-jira-anonymous-account.md)
   * [Select your Jira data source type](jira/jira-target/select-your-jira-data-source-type.md)
 
 ## From Pipeline
