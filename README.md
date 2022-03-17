@@ -1,2 +1,2 @@
-# documentation
-SL product docs
+# Documentation
+SnapLogic in-app documentation for Flows and Pattern Catalog
