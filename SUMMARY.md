@@ -148,35 +148,35 @@
 
 * [Microsoft Dynamics 365 Source](microsoft-dynamics-365/microsoft-dynamics-365-source/README.md)
   * [Microsoft Dynamics 365 for Sales overview](microsoft-dynamics-365/microsoft-dynamics-365-source/microsoft-dynamics-365-for-sales-overview.md)
-  * [Microsoft Dynamics 365 for Sales account settings](microsoft-dynamics-365/microsoft-dynamics-365-source/microsoft-dynamics-365-for-sales-account-settings.md)
+  * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-source/configure-your-microsoft-dynamics-365-for-sales-account.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft-dynamics-365/microsoft-dynamics-365-source/select-your-microsoft-dynamics-365-for-sales-object-type.md)
 * [Microsoft Dynamics 365 Target](microsoft-dynamics-365/microsoft-dynamics-365-target/README.md)
   * [Microsoft Dynamics 365 for Sales Overview](microsoft-dynamics-365/microsoft-dynamics-365-target/microsoft-dynamics-365-for-sales-overview.md)
-  * [Configure your Microsoft Dynamics 365 for Sales account settings](microsoft-dynamics-365/microsoft-dynamics-365-target/configure-your-microsoft-dynamics-365-for-sales-account-settings.md)
-  * [Enter Microsoft Dynamics 365 for Sales information](microsoft-dynamics-365/microsoft-dynamics-365-target/enter-microsoft-dynamics-365-for-sales-information.md)
+  * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-target/configure-your-microsoft-dynamics-365-for-sales-account.md)
+  * [Select your Microsoft Dynamics 365 for Sales object type](microsoft-dynamics-365/microsoft-dynamics-365-target/select-your-microsoft-dynamics-365-for-sales-object-type.md)
 
 ## MS Teams
 
 * [MS Teams Target](ms-teams/ms-teams-target/README.md)
   * [MS Teams Overview](ms-teams/ms-teams-target/ms-teams-overview.md)
   * [Select your MS Teams Account Type](ms-teams/ms-teams-target/select-your-ms-teams-account-type.md)
-  * [Configure your OAuth2 User Account](ms-teams/ms-teams-target/configure-your-oauth2-user-account.md)
   * [Configure your Dynamic OAuth2 Account](ms-teams/ms-teams-target/configure-your-dynamic-oauth2-account.md)
+  * [Configure your OAuth2 User Account](ms-teams/ms-teams-target/configure-your-oauth2-user-account.md)
   * [Enter your MS Teams information](ms-teams/ms-teams-target/enter-your-ms-teams-information.md)
 
 ## My SQL
 
 * [My SQL Target](my-sql/my-sql-target/README.md)
   * [MySQL overview](my-sql/my-sql-target/mysql-overview.md)
-  * [Configure MySQL account settings](my-sql/my-sql-target/configure-mysql-account-settings.md)
-  * [Enter the MySQL schema information](my-sql/my-sql-target/enter-the-mysql-schema-information.md)
+  * [Configure your MySQL account](my-sql/my-sql-target/configure-your-mysql-account.md)
+  * [Enter your MySQL schema information](my-sql/my-sql-target/enter-your-mysql-schema-information.md)
 
 ## Slack
 
 * [Slack Target](slack/slack-target/README.md)
   * [Slack overview](slack/slack-target/slack-overview.md)
-  * [Configure your Slack account settings](slack/slack-target/configure-your-slack-account-settings.md)
-  * [Configure Slack settings](slack/slack-target/configure-slack-settings.md)
+  * [Configure your Slack account](slack/slack-target/configure-your-slack-account.md)
+  * [Enter your Slack settings](slack/slack-target/enter-your-slack-settings.md)
 
 ## Salesforce Upsert
 
