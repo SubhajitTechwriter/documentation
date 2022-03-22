@@ -105,6 +105,7 @@
   * [Configure your SMB Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-smb-account.md)
   * [Configure your Two-Factor Auth Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-two-factor-auth-account.md)
   * [Configure your Azure Data Lake Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-azure-data-lake-account.md)
+  * [Configure your AWS S3 Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-aws-s3-account.md)
   * [Select your SnapLogic File System Writer Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-your-snaplogic-file-system-writer-account.md)
 
 ## Sharepoint Online
@@ -213,6 +214,7 @@
 
 * [Email Sender Target](email-sender/email-sender-target/README.md)
   * [Email Sender overview](email-sender/email-sender-target/email-sender-overview.md)
+  * [Select your Email Sender Account Type](email-sender/email-sender-target/select-your-email-sender-account-type.md)
   * [Configure your Email Sender account](email-sender/email-sender-target/configure-your-email-sender-account.md)
   * [Enter your Email Sender settings](email-sender/email-sender-target/enter-your-email-sender-settings.md)
 
@@ -220,5 +222,3 @@
 
 * [End Flow](end-flow/README.md)
   * [Complete your Flow](end-flow/complete-your-flow.md)
-* [Configure your AWS S3 Account](configure-your-aws-s3-account.md)
-* [Select your Email Sender Account Type](select-your-email-sender-account-type.md)
