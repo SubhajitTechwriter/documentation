@@ -208,3 +208,4 @@
 
 * [End Flow](end-flow/README.md)
   * [Complete your Flow](end-flow/complete-your-flow.md)
+* [Select your Email Sender Account Type](select-your-email-sender-account-type.md)
