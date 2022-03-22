@@ -116,7 +116,7 @@
   * [ServiceNow overview](servicenow/servicenow-source/servicenow-overview.md)
   * [Select your ServiceNow account type](servicenow/servicenow-source/select-your-servicenow-account-type.md)
   * [Configure your ServiceNow account](servicenow/servicenow-source/enter-your-servicenow-account-information.md)
-  * [Configure your ServiceNow OAuth2 Account](servicenow/servicenow-source/configure-your-servicenow-oauth2-account.md)
+  * [Configure your ServiceNow OAuth2 account](servicenow/servicenow-source/configure-your-servicenow-oauth2-account.md)
   * [Select your ServiceNow data source type](servicenow/servicenow-source/servicenow\_file\_type.md)
 * [ServiceNow Target](servicenow/servicenow-target/README.md)
   * [ServiceNow Overview](servicenow/servicenow-target/servicenow-overview.md)
