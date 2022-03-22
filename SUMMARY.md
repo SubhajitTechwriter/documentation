@@ -96,6 +96,7 @@
   * [Snaplogic File System Writer overview](snaplogic-file-system-reader/snaplogic-file-system-writer-target/snaplogic-file-system-writer-overview.md)
   * [Configure your Snaplogic File System Writer account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-snaplogic-file-system-writer-account-settings.md)
   * [Select your Snaplogic File System Writer data collection type](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-snaplogic-file-system-writer-data-collection-type.md)
+  * [Configure your Azure Data Lake Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-azure-data-lake-account.md)
   * [Select your SnapLogic File System Writer Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-your-snaplogic-file-system-writer-account.md)
 
 ## Sharepoint Online
