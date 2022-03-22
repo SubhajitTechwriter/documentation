@@ -96,6 +96,14 @@
   * [Snaplogic File System Writer overview](snaplogic-file-system-reader/snaplogic-file-system-writer-target/snaplogic-file-system-writer-overview.md)
   * [Configure your Snaplogic File System Writer account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-snaplogic-file-system-writer-account-settings.md)
   * [Select your Snaplogic File System Writer data collection type](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-snaplogic-file-system-writer-data-collection-type.md)
+  * [Configure your  Azure Storage Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-azure-storage-account.md)
+  * [Configure your Google Storage Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-google-storage-account.md)
+  * [Configure your Google Service Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-google-service-account.md)
+  * [Configure your S3 Dynamic Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-s3-dynamic-account.md)
+  * [Configure your SSH Auth Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-ssh-auth-account.md)
+  * [Configure your Basic Auth Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-basic-auth-account.md)
+  * [Configure your SMB Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-smb-account.md)
+  * [Configure your Two-Factor Auth Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-two-factor-auth-account.md)
   * [Configure your Azure Data Lake Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-azure-data-lake-account.md)
   * [Select your SnapLogic File System Writer Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-your-snaplogic-file-system-writer-account.md)
 
@@ -122,6 +130,7 @@
   * [ServiceNow Overview](servicenow/servicenow-target/servicenow-overview.md)
   * [Configure your ServiceNow account](servicenow/servicenow-target/configure-your-servicenow-account-settings.md)
   * [Select your ServiceNow data delivery type](servicenow/servicenow-target/select-servicenow-data-delivery-type.md)
+  * [Select your ServiceNow account type](servicenow/servicenow-target/select-your-servicenow-account-type.md)
   * [Configure your ServiceNow OAuth2 account](servicenow/servicenow-target/configure-your-servicenow-oauth2-account.md)
 
 ## HubSpot
@@ -211,4 +220,5 @@
 
 * [End Flow](end-flow/README.md)
   * [Complete your Flow](end-flow/complete-your-flow.md)
+* [Configure your AWS S3 Account](configure-your-aws-s3-account.md)
 * [Select your Email Sender Account Type](select-your-email-sender-account-type.md)
