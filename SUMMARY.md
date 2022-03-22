@@ -122,6 +122,7 @@
   * [ServiceNow Overview](servicenow/servicenow-target/servicenow-overview.md)
   * [Configure your ServiceNow account](servicenow/servicenow-target/configure-your-servicenow-account-settings.md)
   * [Select your ServiceNow data delivery type](servicenow/servicenow-target/select-servicenow-data-delivery-type.md)
+  * [Configure your ServiceNow OAuth2 account](servicenow/servicenow-target/configure-your-servicenow-oauth2-account.md)
 
 ## HubSpot
 
