@@ -146,6 +146,7 @@
   * [HubSpot overview](hubspot/hubspot-target/hubspot-overview.md)
   * [Enter your HubSpot account information](hubspot/hubspot-target/enter-your-hubspot-account-information.md)
   * [Select your HubSpot object type](hubspot/hubspot-target/select-your-object-type.md)
+  * [Select your HubSpot account type](hubspot/hubspot-target/select-your-hubspot-account-type.md)
 
 ## Jira
 
