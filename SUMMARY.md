@@ -58,8 +58,8 @@
 
 * [Marketo Source](marketo/marketo-source/README.md)
   * [Marketo overview](marketo/marketo-source/marketo\_overview.md)
-  * [Select your Marketo account type](marketo/marketo-source/marketo\_account\_type.md)
-  * [Configure your Marketo account settings](marketo/marketo-source/marketo\_account\_settings.md)
+  * [Select your Marketo account type](marketo/marketo-source/account\_overview.md)
+  * [Configure your Marketo account settings](marketo/marketo-source/com-snaplogic-snaps-marketo-marketooauth2account.md)
   * [Select your Marketo data collection type](marketo/marketo-source/marketo\_file\_type.md)
 * [Marketo Target](marketo/marketo-target/README.md)
   * [Marketo overview](marketo/marketo-target/trg\_marketo\_overview.md)
