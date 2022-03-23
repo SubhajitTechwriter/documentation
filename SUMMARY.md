@@ -142,6 +142,7 @@
   * [HubSpot overview](hubspot/hubspot-source/hubspot-overview.md)
   * [Enter your HubSpot account information](hubspot/hubspot-source/enter-your-hubspot-account-information.md)
   * [Select your HubSpot object type](hubspot/hubspot-source/select-your-object-type.md)
+  * [Select your HubSpot account type](hubspot/hubspot-source/account\_overview.md)
 * [HubSpot Target](hubspot/hubspot-target/README.md)
   * [HubSpot overview](hubspot/hubspot-target/hubspot-overview.md)
   * [Enter your HubSpot account information](hubspot/hubspot-target/enter-your-hubspot-account-information.md)
