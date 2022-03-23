@@ -10,3 +10,5 @@ This target endpoint REST APIs to:
 * Search through the existing records
 * Update an existing record
 * Upsert data into a table
+
+To begin your Flows, either select a pre-configured Microsoft Dynamics 365 for Sales account from the dropdown or click **Add Account** to configure your existing Microsoft Dynamics 365 for Sales account.
