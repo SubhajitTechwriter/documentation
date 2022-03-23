@@ -5,7 +5,6 @@ Select the project **Location** to save your account information. The default sh
 Configure your account with the following details:
 
 * **Label:** Specify a unique user-provided label for the account.
-* **Dynamics Organization URL**: Enter the URL for the MS Dynamics 365 For Sales WebAPI endpoint.
 * **Client ID**: Enter the client ID associated with your Microsoft Dynamics application.
 * **Client Secret:** Enter the client secret associated with your account.
 * **Access token**: _Auto-generated after authorization._ The token that SnapLogic uses to make API requests on behalf of the user associated with the client ID.

@@ -65,6 +65,7 @@
   * [Marketo overview](marketo/marketo-target/trg\_marketo\_overview.md)
   * [Configure your Marketo account settings](marketo/marketo-target/trg\_marketo\_account\_settings.md)
   * [Select Marketo data collection type](marketo/marketo-target/trg\_marketo\_data\_type.md)
+  * [Select your Marketo account type](marketo/marketo-target/account\_overview.md)
 
 ## Salesforce Event Listener
 
