@@ -177,10 +177,12 @@
   * [Microsoft Dynamics 365 for Sales overview](microsoft-dynamics-365/microsoft-dynamics-365-source/microsoft-dynamics-365-for-sales-overview.md)
   * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-source/configure-your-microsoft-dynamics-365-for-sales-account.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft-dynamics-365/microsoft-dynamics-365-source/select-your-microsoft-dynamics-365-for-sales-object-type.md)
+  * [Select your Dynamics 365 OAuth2 Account For Online account type](microsoft-dynamics-365/microsoft-dynamics-365-source/account\_overview.md)
 * [Microsoft Dynamics 365 Target](microsoft-dynamics-365/microsoft-dynamics-365-target/README.md)
   * [Microsoft Dynamics 365 for Sales Overview](microsoft-dynamics-365/microsoft-dynamics-365-target/microsoft-dynamics-365-for-sales-overview.md)
   * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-target/configure-your-microsoft-dynamics-365-for-sales-account.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft-dynamics-365/microsoft-dynamics-365-target/select-your-microsoft-dynamics-365-for-sales-object-type.md)
+  * [Select your Dynamics 365 OAuth2 Account For Online account type](microsoft-dynamics-365/microsoft-dynamics-365-target/account\_overview.md)
 
 ## MS Teams
 
