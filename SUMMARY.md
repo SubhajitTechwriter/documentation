@@ -113,12 +113,14 @@
 
 * [SharePoint Online Source](sharepoint-online/sharepoint-online-source/README.md)
   * [Sharepoint overview](sharepoint-online/sharepoint-online-source/sharepoint-overview.md)
+  * [Select your SharePoint Online account](sharepoint-online/sharepoint-online-source/select-your-sharepoint-online-account.md)
   * [Configure your SharePoint Online account](sharepoint-online/sharepoint-online-source/configure-your-sharepoint-online-account-settings.md)
   * [Select your SharePoint Online data source type](sharepoint-online/sharepoint-online-source/select-your-sharepoint-data-source-type.md)
 * [SharePoint Online Target](sharepoint-online/sharepoint-online-target/README.md)
   * [SharePoint Online overview](sharepoint-online/sharepoint-online-target/sharepoint-online-overview.md)
   * [Configure your SharePoint Online account](sharepoint-online/sharepoint-online-target/configure-your-sharepoint-online-account-settings.md)
   * [Select your SharePoint Online data delivery type](sharepoint-online/sharepoint-online-target/configure-sharepoint-online-data-delivery-type.md)
+  * [Select your SharePoint Online account](sharepoint-online/sharepoint-online-target/select-your-sharepoint-online-account.md)
 
 ## ServiceNow
 
