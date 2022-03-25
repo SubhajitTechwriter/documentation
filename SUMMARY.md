@@ -202,6 +202,7 @@
   * [MySQL overview](my-sql/my-sql-target/mysql-overview.md)
   * [Configure your MySQL account](my-sql/my-sql-target/configure-your-mysql-account.md)
   * [Enter your MySQL schema information](my-sql/my-sql-target/enter-your-mysql-schema-information.md)
+  * [Configure your MySQL Dynamic account](my-sql/my-sql-target/configure-your-mysql-dynamic-account.md)
 
 ## Slack
 
@@ -209,6 +210,7 @@
   * [Slack overview](slack/slack-target/slack-overview.md)
   * [Configure your Slack account](slack/slack-target/configure-your-slack-account.md)
   * [Enter your Slack settings](slack/slack-target/enter-your-slack-settings.md)
+  * [Select your Slack account type](slack/slack-target/select-your-slack-account-type.md)
 
 ## Salesforce Upsert
 
