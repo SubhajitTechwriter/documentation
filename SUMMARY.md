@@ -53,6 +53,7 @@
   * [Select your REST account type](rest/rest-source/select-your-rest-account-type.md)
   * [Configure your REST account](rest/rest-source/configure-your-rest-account-information.md)
   * [Enter your REST Service URL](rest/rest-source/enter-the-rest-service-url.md)
+  * [Configure your REST AWS Sig v4 account](rest/rest-source/configure-your-rest-aws-sig-v4-account.md)
 
 ## Marketo
 
@@ -210,6 +211,7 @@
   * [Slack overview](slack/slack-target/slack-overview.md)
   * [Configure your Slack account](slack/slack-target/configure-your-slack-account.md)
   * [Enter your Slack settings](slack/slack-target/enter-your-slack-settings.md)
+  * [Configure your Slack Generic OAuth2 Bot Token account](slack/slack-target/configure-your-slack-generic-oauth2-bot-token-account.md)
   * [Select your Slack account type](slack/slack-target/select-your-slack-account-type.md)
 
 ## Salesforce Upsert
