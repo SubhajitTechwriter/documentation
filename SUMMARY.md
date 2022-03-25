@@ -51,7 +51,6 @@
 * [Rest Source](rest/rest-source/README.md)
   * [REST overview](rest/rest-source/rest-overview.md)
   * [Select your REST account type](rest/rest-source/select-your-rest-account-type.md)
-  * [Configure your REST account](rest/rest-source/configure-your-rest-account-information.md)
   * [Enter your REST Service URL](rest/rest-source/enter-the-rest-service-url.md)
   * [Configure your REST Dynamic OAuth2 account](rest/rest-source/configure-your-rest-dynamic-oauth2-account.md)
   * [Configure your REST OAuth1 account](rest/rest-source/configure-your-rest-oauth1-account.md)
