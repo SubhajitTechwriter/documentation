@@ -53,6 +53,9 @@
   * [Select your REST account type](rest/rest-source/select-your-rest-account-type.md)
   * [Configure your REST account](rest/rest-source/configure-your-rest-account-information.md)
   * [Enter your REST Service URL](rest/rest-source/enter-the-rest-service-url.md)
+  * [Configure your REST Dynamic OAuth2 account](rest/rest-source/configure-your-rest-dynamic-oauth2-account.md)
+  * [Configure your REST OAuth1 account](rest/rest-source/configure-your-rest-oauth1-account.md)
+  * [Configure your REST Basic Auth account](rest/rest-source/configure-your-rest-basic-auth-account.md)
   * [Configure your REST NTLM account](rest/rest-source/configure-your-rest-ntlm-account.md)
   * [Configure your REST OAuth2 SSL account](rest/rest-source/configure-your-rest-oauth2-ssl-account.md)
   * [Configure your REST OAuth2 account](rest/rest-source/configure-your-rest-oauth2-account.md)
@@ -207,6 +210,7 @@
   * [MySQL overview](my-sql/my-sql-target/mysql-overview.md)
   * [Configure your MySQL account](my-sql/my-sql-target/configure-your-mysql-account.md)
   * [Enter your MySQL schema information](my-sql/my-sql-target/enter-your-mysql-schema-information.md)
+  * [Select your MySQL account type](my-sql/my-sql-target/select-your-mysql-account-type.md)
   * [Configure your MySQL Dynamic account](my-sql/my-sql-target/configure-your-mysql-dynamic-account.md)
 
 ## Slack
