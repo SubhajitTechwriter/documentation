@@ -53,6 +53,10 @@
   * [Select your REST account type](rest/rest-source/select-your-rest-account-type.md)
   * [Configure your REST account](rest/rest-source/configure-your-rest-account-information.md)
   * [Enter your REST Service URL](rest/rest-source/enter-the-rest-service-url.md)
+  * [Configure your REST NTLM account](rest/rest-source/configure-your-rest-ntlm-account.md)
+  * [Configure your REST OAuth2 SSL account](rest/rest-source/configure-your-rest-oauth2-ssl-account.md)
+  * [Configure your REST OAuth2 account](rest/rest-source/configure-your-rest-oauth2-account.md)
+  * [Configure your REST SSL account](rest/rest-source/configure-your-rest-ssl-account.md)
   * [Configure your REST AWS Sig v4 account](rest/rest-source/configure-your-rest-aws-sig-v4-account.md)
 
 ## Marketo
