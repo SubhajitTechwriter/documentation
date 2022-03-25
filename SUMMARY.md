@@ -208,7 +208,6 @@
 
 * [My SQL Target](my-sql/my-sql-target/README.md)
   * [MySQL overview](my-sql/my-sql-target/mysql-overview.md)
-  * [Configure your MySQL account](my-sql/my-sql-target/configure-your-mysql-account.md)
   * [Enter your MySQL schema information](my-sql/my-sql-target/enter-your-mysql-schema-information.md)
   * [Configure your MySQL Database account](my-sql/my-sql-target/configure-your-mysql-database-account.md)
   * [Select your MySQL account type](my-sql/my-sql-target/select-your-mysql-account-type.md)
@@ -218,7 +217,6 @@
 
 * [Slack Target](slack/slack-target/README.md)
   * [Slack overview](slack/slack-target/slack-overview.md)
-  * [Configure your Slack account](slack/slack-target/configure-your-slack-account.md)
   * [Enter your Slack settings](slack/slack-target/enter-your-slack-settings.md)
   * [Configure your Slack Generic OAuth2 User Token account](slack/slack-target/configure-your-slack-generic-oauth2-user-token-account.md)
   * [Configure your Slack Dynamic OAuth2 account](slack/slack-target/configure-your-slack-dynamic-oauth2-account.md)
