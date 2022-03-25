@@ -87,8 +87,9 @@
 ## SnapLogic File System Reader
 
 * [SnapLogic File System Reader Source](snaplogic-file-system-reader/snaplogic-file-system-reader-source/README.md)
-  * [SnapLogic File System Reader overview](snaplogic-file-system-reader/snaplogic-file-system-reader-source/snaplogic-file-system-reader-overview.md)
+  * [SnapLogic File System Reader overview](snaplogic-file-system-reader/snaplogic-file-system-reader-source/snaplogic-file-system-reader-overview-1.md)
   * [Select your SnapLogic File System Reader account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/select-your-snaplogic-file-system-reader-account.md)
+  * [Configure your AWS S3 Account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-your-aws-s3-account.md)
   * [Configure your Azure Data Lake Account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-azure-data-lake-account.md)
   * [Configure your Azure Storage Account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-azure-storage-account.md)
   * [Configure your Google Service account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-google-service-account.md)
@@ -98,12 +99,9 @@
   * [Configure your SMB Account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-smb-account.md)
   * [Configure your SSH Auth account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-ssh-auth-account.md)
   * [Configure your Two-Factor Auth account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-two-factor-auth-account.md)
-  * [Configure your Snaplogic File System Writer account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-snaplogic-file-system-writer-account-settings.md)
-  * [SnapLogic File System Reader overview](snaplogic-file-system-reader/snaplogic-file-system-reader-source/snaplogic-file-system-reader-overview-1.md)
 * [Snaplogic File System Writer Target](snaplogic-file-system-reader/snaplogic-file-system-writer-target/README.md)
-  * [Snaplogic File System Writer overview](snaplogic-file-system-reader/snaplogic-file-system-writer-target/snaplogic-file-system-writer-overview.md)
-  * [Configure your Snaplogic File System Writer account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-snaplogic-file-system-writer-account-settings.md)
-  * [Select your Snaplogic File System Writer data collection type](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-snaplogic-file-system-writer-data-collection-type.md)
+  * [Snaplogic File System Writer Overview](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-snaplogic-file-system-writer-data-collection-type.md)
+  * [Select your SnapLogic File System Writer Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-your-snaplogic-file-system-writer-account.md)
   * [Configure your  Azure Storage Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-azure-storage-account.md)
   * [Configure your Google Storage Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-google-storage-account.md)
   * [Configure your Google Service Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-google-service-account.md)
@@ -114,7 +112,6 @@
   * [Configure your Two-Factor Auth Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-two-factor-auth-account.md)
   * [Configure your Azure Data Lake Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-azure-data-lake-account.md)
   * [Configure your AWS S3 Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-aws-s3-account.md)
-  * [Select your SnapLogic File System Writer Account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-your-snaplogic-file-system-writer-account.md)
 
 ## Sharepoint Online
 
