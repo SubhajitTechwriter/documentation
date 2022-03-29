@@ -1,6 +1,6 @@
-# Configure your Basic Auth account
+# Configure your Basic Auth Account
 
-Enter the following details of your Basic Auth account:
+Enter the following details of your Basic Auth Account:
 
 * **Label:** User-provided name for the account instance in Flows. For example, _sfsrba\_sales\_account_, if you are part of the sales team.
 * **Username:** Enter a valid username as given in your SFSR basic auth account.

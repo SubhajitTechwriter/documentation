@@ -1,6 +1,6 @@
-# Configure your SMB account
+# Configure your SMB Account
 
-Enter the following details for your SMB account:
+Enter the following details for your SMB Account:
 
 * **Label:** User-provided name for the account instance in Flows. For example, _smb\_sales\_account_, if you are part of the sales team.
 * **Domain**: Domain of the SMB account

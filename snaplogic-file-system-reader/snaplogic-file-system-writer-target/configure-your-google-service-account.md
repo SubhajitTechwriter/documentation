@@ -1,6 +1,6 @@
-# Configure your Google Service account
+# Configure your Google Service Account
 
-Enter the following details for your Google Service account:
+Enter the following details for your Google Service Account:
 
 * **Label:** User-provided name for the account instance in Flows. For example, _sfsrgs\_sales\_account_, if you are part of the sales team.
 * **JSON Key**: Enter the relative path of the JSON key in the SLDB. For example, ../shared/testproject1234-a0545b98719d\_dummy.json
