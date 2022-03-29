@@ -28,11 +28,11 @@
 
 * [Box Source](box/box-source/README.md)
   * [Box overview](box/box-source/box\_overview.md)
-  * [Configure your Box account settings](box/box-source/box\_account.md)
+  * [Configure your Box account](box/box-source/box\_account.md)
   * [Select your Box data collection type](box/box-source/box\_file\_type.md)
 * [Box Target](box/box-target/README.md)
   * [Box overview](box/box-target/trg\_box\_overview.md)
-  * [Configure your Box account settings](box/box-target/trg\_box\_account\_settings.md)
+  * [Configure your Box account](box/box-target/trg\_box\_account\_settings.md)
   * [Select your Box data collection type](box/box-target/trg\_box\_file\_type.md)
 
 ## Google Sheets
@@ -88,12 +88,12 @@
 
 * [SnapLogic File System Reader Source](snaplogic-file-system-reader/snaplogic-file-system-reader-source/README.md)
   * [SnapLogic File System Reader overview](snaplogic-file-system-reader/snaplogic-file-system-reader-source/snaplogic-file-system-reader-overview-1.md)
-  * [Select your SnapLogic File System Reader account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/select-your-snaplogic-file-system-reader-account.md)
+  * [Select your SnapLogic File System Reader account type](snaplogic-file-system-reader/snaplogic-file-system-reader-source/select-your-snaplogic-file-system-reader-account.md)
   * [Configure your AWS S3 Account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-your-aws-s3-account.md)
   * [Configure your Azure Data Lake Account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-azure-data-lake-account.md)
   * [Configure your Azure Storage Account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-azure-storage-account.md)
-  * [Configure your Google Service account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-google-service-account.md)
   * [Configure your Basic Auth account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-basic-auth-account.md)
+  * [Configure your Google Service account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-google-service-account.md)
   * [Configure your Google Storage account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-google-storage-account.md)
   * [Configure your S3 Dynamic account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-s3-dynamic-account.md)
   * [Configure your SMB Account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-smb-account.md)
@@ -101,7 +101,7 @@
   * [Configure your Two-Factor Auth account](snaplogic-file-system-reader/snaplogic-file-system-reader-source/configure-two-factor-auth-account.md)
 * [Snaplogic File System Writer Target](snaplogic-file-system-reader/snaplogic-file-system-writer-target/README.md)
   * [Snaplogic File System Writer Overview](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-snaplogic-file-system-writer-data-collection-type.md)
-  * [Select your SnapLogic File System Writer account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-your-snaplogic-file-system-writer-account.md)
+  * [Select your SnapLogic File System Writer account type](snaplogic-file-system-reader/snaplogic-file-system-writer-target/select-your-snaplogic-file-system-writer-account-type.md)
   * [Configure your  Azure Storage account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-azure-storage-account.md)
   * [Configure your Google Storage account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-google-storage-account.md)
   * [Configure your Google Service account](snaplogic-file-system-reader/snaplogic-file-system-writer-target/configure-your-google-service-account.md)
@@ -116,15 +116,15 @@
 ## Sharepoint Online
 
 * [SharePoint Online Source](sharepoint-online/sharepoint-online-source/README.md)
-  * [Sharepoint overview](sharepoint-online/sharepoint-online-source/sharepoint-overview.md)
-  * [Select your SharePoint Online account](sharepoint-online/sharepoint-online-source/select-your-sharepoint-online-account.md)
+  * [SharePoint Online overview](sharepoint-online/sharepoint-online-source/sharepoint-overview.md)
+  * [Select your SharePoint Online account type](sharepoint-online/sharepoint-online-source/select-your-sharepoint-online-account-type.md)
   * [Configure your SharePoint Online account](sharepoint-online/sharepoint-online-source/configure-your-sharepoint-online-account-settings.md)
   * [Select your SharePoint Online data source type](sharepoint-online/sharepoint-online-source/select-your-sharepoint-data-source-type.md)
 * [SharePoint Online Target](sharepoint-online/sharepoint-online-target/README.md)
   * [SharePoint Online overview](sharepoint-online/sharepoint-online-target/sharepoint-online-overview.md)
+  * [Select your SharePoint Online account type](sharepoint-online/sharepoint-online-target/select-your-sharepoint-online-account-type.md)
   * [Configure your SharePoint Online account](sharepoint-online/sharepoint-online-target/configure-your-sharepoint-online-account-settings.md)
   * [Select your SharePoint Online data delivery type](sharepoint-online/sharepoint-online-target/configure-sharepoint-online-data-delivery-type.md)
-  * [Select your SharePoint Online account](sharepoint-online/sharepoint-online-target/select-your-sharepoint-online-account.md)
 
 ## ServiceNow
 
@@ -136,10 +136,10 @@
   * [Select your ServiceNow data source type](servicenow/servicenow-source/servicenow\_file\_type.md)
 * [ServiceNow Target](servicenow/servicenow-target/README.md)
   * [ServiceNow Overview](servicenow/servicenow-target/servicenow-overview.md)
-  * [Configure your ServiceNow account](servicenow/servicenow-target/configure-your-servicenow-account-settings.md)
-  * [Select your ServiceNow data delivery type](servicenow/servicenow-target/select-servicenow-data-delivery-type.md)
   * [Select your ServiceNow account type](servicenow/servicenow-target/select-your-servicenow-account-type.md)
+  * [Configure your ServiceNow account](servicenow/servicenow-target/configure-your-servicenow-account-settings.md)
   * [Configure your ServiceNow OAuth2 account](servicenow/servicenow-target/configure-your-servicenow-oauth2-account.md)
+  * [Select your ServiceNow data delivery type](servicenow/servicenow-target/select-servicenow-data-delivery-type.md)
 
 ## HubSpot
 
@@ -147,14 +147,14 @@
   * [Select how to handle incoming data](hubspot/hubspot-source/select-how-to-handle-incoming-data.md)
   * [Configure your external event](hubspot/hubspot-source/configure-your-external-event.md)
   * [HubSpot overview](hubspot/hubspot-source/hubspot-overview.md)
-  * [Enter your HubSpot account information](hubspot/hubspot-source/enter-your-hubspot-account-information.md)
-  * [Select your HubSpot object type](hubspot/hubspot-source/select-your-object-type.md)
   * [Select your HubSpot account type](hubspot/hubspot-source/account\_overview.md)
+  * [Configure your HubSpot account](hubspot/hubspot-source/enter-your-hubspot-account-information.md)
+  * [Select your HubSpot object type](hubspot/hubspot-source/select-your-object-type.md)
 * [HubSpot Target](hubspot/hubspot-target/README.md)
   * [HubSpot overview](hubspot/hubspot-target/hubspot-overview.md)
-  * [Enter your HubSpot account information](hubspot/hubspot-target/enter-your-hubspot-account-information.md)
-  * [Select your HubSpot object type](hubspot/hubspot-target/select-your-object-type.md)
   * [Select your HubSpot account type](hubspot/hubspot-target/select-your-hubspot-account-type.md)
+  * [Configure your HubSpot account](hubspot/hubspot-target/enter-your-hubspot-account-information.md)
+  * [Select your HubSpot object type](hubspot/hubspot-target/select-your-object-type.md)
 
 ## Jira
 
@@ -182,14 +182,14 @@
 
 * [Microsoft Dynamics 365 Source](microsoft-dynamics-365/microsoft-dynamics-365-source/README.md)
   * [Microsoft Dynamics 365 for Sales overview](microsoft-dynamics-365/microsoft-dynamics-365-source/microsoft-dynamics-365-for-sales-overview.md)
+  * [Select your Microsoft Dynamics 365 for Sales account type](microsoft-dynamics-365/microsoft-dynamics-365-source/account\_overview.md)
   * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-source/configure-your-microsoft-dynamics-365-for-sales-account.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft-dynamics-365/microsoft-dynamics-365-source/select-your-microsoft-dynamics-365-for-sales-object-type.md)
-  * [Select your Microsoft Dynamics 365 for Sales account type](microsoft-dynamics-365/microsoft-dynamics-365-source/account\_overview.md)
 * [Microsoft Dynamics 365 Target](microsoft-dynamics-365/microsoft-dynamics-365-target/README.md)
   * [Microsoft Dynamics 365 for Sales Overview](microsoft-dynamics-365/microsoft-dynamics-365-target/microsoft-dynamics-365-for-sales-overview.md)
+  * [Select your Microsoft Dynamics 365 for Sales account type](microsoft-dynamics-365/microsoft-dynamics-365-target/account\_overview.md)
   * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-target/configure-your-microsoft-dynamics-365-for-sales-account.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft-dynamics-365/microsoft-dynamics-365-target/select-your-microsoft-dynamics-365-for-sales-object-type.md)
-  * [Select your Microsoft Dynamics 365 for Sales account type](microsoft-dynamics-365/microsoft-dynamics-365-target/account\_overview.md)
 
 ## MS Teams
 
@@ -204,26 +204,26 @@
 
 * [My SQL Target](my-sql/my-sql-target/README.md)
   * [MySQL overview](my-sql/my-sql-target/mysql-overview.md)
-  * [Enter your MySQL schema information](my-sql/my-sql-target/enter-your-mysql-schema-information.md)
-  * [Configure your MySQL Database account](my-sql/my-sql-target/configure-your-mysql-database-account.md)
   * [Select your MySQL account type](my-sql/my-sql-target/select-your-mysql-account-type.md)
+  * [Configure your MySQL Database account](my-sql/my-sql-target/configure-your-mysql-database-account.md)
   * [Configure your MySQL Dynamic account](my-sql/my-sql-target/configure-your-mysql-dynamic-account.md)
+  * [Enter your MySQL schema information](my-sql/my-sql-target/enter-your-mysql-schema-information.md)
 
 ## Slack
 
 * [Slack Target](slack/slack-target/README.md)
   * [Slack overview](slack/slack-target/slack-overview.md)
-  * [Enter your Slack settings](slack/slack-target/enter-your-slack-settings.md)
-  * [Configure your Slack Generic OAuth2 User Token account](slack/slack-target/configure-your-slack-generic-oauth2-user-token-account.md)
+  * [Select your Slack account type](slack/slack-target/select-your-slack-account-type.md)
   * [Configure your Slack Dynamic OAuth2 account](slack/slack-target/configure-your-slack-dynamic-oauth2-account.md)
   * [Configure your Slack Generic OAuth2 Bot Token account](slack/slack-target/configure-your-slack-generic-oauth2-bot-token-account.md)
-  * [Select your Slack account type](slack/slack-target/select-your-slack-account-type.md)
+  * [Configure your Slack Generic OAuth2 User Token account](slack/slack-target/configure-your-slack-generic-oauth2-user-token-account.md)
+  * [Enter your Slack settings](slack/slack-target/enter-your-slack-settings.md)
 
 ## Email Sender
 
 * [Email Sender Target](email-sender/email-sender-target/README.md)
   * [Email Sender overview](email-sender/email-sender-target/email-sender-overview.md)
-  * [Select your Email Sender Account Type](email-sender/email-sender-target/select-your-email-sender-account-type.md)
+  * [Select your Email Sender account type](email-sender/email-sender-target/select-your-email-sender-account-type.md)
   * [Configure your Email Sender account](email-sender/email-sender-target/configure-your-email-sender-account.md)
   * [Enter your Email Sender settings](email-sender/email-sender-target/enter-your-email-sender-settings.md)
 
