@@ -1,6 +1,6 @@
-# Configure your S3 Dynamic Account
+# Configure your S3 Dynamic account
 
-Enter the following details for your S3 Dynamic Account:&#x20;
+Enter the following details for your S3 Dynamic account:&#x20;
 
 * **Label**: User-provided label for the account instance
 * **Access-key ID**: Access key ID part of AWS authentication

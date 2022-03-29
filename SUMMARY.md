@@ -10,7 +10,7 @@
   * [Configure your external event](salesforce/salesforce-source/configure-your-external-event.md)
   * [Salesforce overview](salesforce/salesforce-source/salesforce-overview.md)
   * [Select your Salesforce account type](salesforce/salesforce-source/select-your-salesforce-account-type.md)
-  * [Configure your Salesforce.com account](salesforce/salesforce-source/configure-your-salesforce-account-settings.md)
+  * [Configure your Salesforce.com account](salesforce/salesforce-source/configure-your-salesforce.com-account.md)
   * [Configure your Salesforce.com dynamic account](salesforce/salesforce-source/configure-your-salesforce.com-dynamic-account.md)
   * [Configure your Salesforce.com Oauth2 account](salesforce/salesforce-source/configure-your-salesforce.com-oauth2-account.md)
   * [Configure your Salesforce.com Mutual Authentication account](salesforce/salesforce-source/configure-your-salesforce.com-mutual-authentication-account.md)
@@ -18,7 +18,7 @@
 * [Salesforce Target](salesforce/salesforce-target/README.md)
   * [Salesforce overview](salesforce/salesforce-target/salesforce-overview.md)
   * [Select your Salesforce account type](salesforce/salesforce-target/copy-of-select-your-salesforce-account-type.md)
-  * [Configure your Salesforce.com account](salesforce/salesforce-target/configure-your-salesforce-account-settings.md)
+  * [Configure your Salesforce.com account](salesforce/salesforce-target/configure-your-salesforce.com-account.md)
   * [Configure your Salesforce.com dynamic account](salesforce/salesforce-target/configure-your-salesforce.com-dynamic-account.md)
   * [Configure your Salesforce.com Oauth2 account](salesforce/salesforce-target/configure-your-salesforce.com-oauth2-account.md)
   * [Configure your Salesforce.com Mutual Authentication account](salesforce/salesforce-target/configure-your-salesforce.com-mutual-authentication-account.md)
@@ -51,28 +51,28 @@
 * [Rest Source](rest/rest-source/README.md)
   * [REST overview](rest/rest-source/rest-overview.md)
   * [Select your REST account type](rest/rest-source/select-your-rest-account-type.md)
-  * [Enter your REST Service URL](rest/rest-source/enter-the-rest-service-url.md)
-  * [Configure your REST Dynamic OAuth2 account](rest/rest-source/configure-your-rest-dynamic-oauth2-account.md)
-  * [Configure your REST OAuth1 account](rest/rest-source/configure-your-rest-oauth1-account.md)
-  * [Configure your REST Basic Auth account](rest/rest-source/configure-your-rest-basic-auth-account.md)
-  * [Configure your REST NTLM account](rest/rest-source/configure-your-rest-ntlm-account.md)
-  * [Configure your REST OAuth2 SSL account](rest/rest-source/configure-your-rest-oauth2-ssl-account.md)
-  * [Configure your REST OAuth2 account](rest/rest-source/configure-your-rest-oauth2-account.md)
-  * [Configure your REST SSL account](rest/rest-source/configure-your-rest-ssl-account.md)
   * [Configure your REST AWS Sig v4 account](rest/rest-source/configure-your-rest-aws-sig-v4-account.md)
+  * [Configure your REST Basic Auth account](rest/rest-source/configure-your-rest-basic-auth-account.md)
+  * [Configure your REST Dynamic OAuth2 account](rest/rest-source/configure-your-rest-dynamic-oauth2-account.md)
+  * [Configure your REST NTLM account](rest/rest-source/configure-your-rest-ntlm-account.md)
+  * [Configure your REST OAuth1 account](rest/rest-source/configure-your-rest-oauth1-account.md)
+  * [Configure your REST OAuth2 account](rest/rest-source/configure-your-rest-oauth2-account.md)
+  * [Configure your REST OAuth2 SSL account](rest/rest-source/configure-your-rest-oauth2-ssl-account.md)
+  * [Configure your REST SSL account](rest/rest-source/configure-your-rest-ssl-account.md)
+  * [Enter your REST Service URL](rest/rest-source/enter-the-rest-service-url.md)
 
 ## Marketo
 
 * [Marketo Source](marketo/marketo-source/README.md)
   * [Marketo overview](marketo/marketo-source/marketo\_overview.md)
   * [Select your Marketo account type](marketo/marketo-source/account\_overview.md)
-  * [Configure your Marketo account settings](marketo/marketo-source/com-snaplogic-snaps-marketo-marketooauth2account.md)
+  * [Configure your Marketo account](marketo/marketo-source/com-snaplogic-snaps-marketo-marketooauth2account.md)
   * [Select your Marketo data collection type](marketo/marketo-source/marketo\_file\_type.md)
 * [Marketo Target](marketo/marketo-target/README.md)
   * [Marketo overview](marketo/marketo-target/trg\_marketo\_overview.md)
-  * [Configure your Marketo account settings](marketo/marketo-target/trg\_marketo\_account\_settings.md)
-  * [Select Marketo data collection type](marketo/marketo-target/trg\_marketo\_data\_type.md)
   * [Select your Marketo account type](marketo/marketo-target/account\_overview.md)
+  * [Configure your Marketo account](marketo/marketo-target/trg\_marketo\_account\_settings.md)
+  * [Select your Marketo data collection type](marketo/marketo-target/trg\_marketo\_data\_type.md)
 
 ## Salesforce Event Listener
 
@@ -218,13 +218,6 @@
   * [Configure your Slack Dynamic OAuth2 account](slack/slack-target/configure-your-slack-dynamic-oauth2-account.md)
   * [Configure your Slack Generic OAuth2 Bot Token account](slack/slack-target/configure-your-slack-generic-oauth2-bot-token-account.md)
   * [Select your Slack account type](slack/slack-target/select-your-slack-account-type.md)
-
-## Salesforce Upsert
-
-* [Salesforce Upsert Target](salesforce-upsert/salesforce-upsert-target/README.md)
-  * [Salesforce Upsert overview](salesforce-upsert/salesforce-upsert-target/salesforce-upsert-overview.md)
-  * [Configure your Salesforce Upsert account](salesforce-upsert/salesforce-upsert-target/configure-your-salesforce-upsert-account.md)
-  * [Enter your Salesforce Upsert settings](salesforce-upsert/salesforce-upsert-target/enter-your-salesforce-upsert-settings.md)
 
 ## Email Sender
 

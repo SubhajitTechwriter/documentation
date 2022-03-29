@@ -1,6 +1,6 @@
-# Configure your Two-Factor Auth Account
+# Configure your Two-Factor Auth account
 
-Enter the following details for your Two-Factor Auth Account:&#x20;
+Enter the following details for your Two-Factor Auth account:&#x20;
 
 * **Label**: User-provided name for the account instance in Flows. For example, _ssh\_sales\_account_, if you are part of the sales team.
 * **Username**: Account username.
