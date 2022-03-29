@@ -1,6 +1,6 @@
-# Configure your SSH Auth Account
+# Configure your SSH Auth account
 
-Enter the following details for your SSH Auth Account:
+Enter the following details for your SSH Auth account:
 
 * **Label**: User-provided name for the account instance in Flows. For example, _ssh\_sales\_account_, if you are part of the sales team.
 * **Username**: Account username.
