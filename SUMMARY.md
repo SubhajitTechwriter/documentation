@@ -74,11 +74,6 @@
   * [Configure your Marketo account](marketo/marketo-target/trg\_marketo\_account\_settings.md)
   * [Select your Marketo data collection type](marketo/marketo-target/trg\_marketo\_data\_type.md)
 
-## Salesforce Event Listener
-
-* [Salesforce Event Listener Source](salesforce-event-listener/salesforce-event-listener-source/README.md)
-  * [Salesforce Event Listener overview](salesforce-event-listener/salesforce-event-listener-source/salesforce-event-listener-overview.md)
-
 ## CSV Generator
 
 * [CSV Generator Source](csv-generator/csv-generator-source/README.md)
