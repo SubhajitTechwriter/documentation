@@ -219,7 +219,7 @@
 * [Email Sender Target](email-sender/email-sender-target/README.md)
   * [Email Sender overview](email-sender/email-sender-target/email-sender-overview.md)
   * [Select your Email Sender account type](email-sender/email-sender-target/select-your-email-sender-account-type.md)
-  * [Configure your Email Sender account](email-sender/email-sender-target/email-sender/email-sender-target/com-snaplogic-snaps-email-smtpaccount.md)
+  * [Configure the Email Sender account settings](email-sender/email-sender-target/com-snaplogic-snaps-email-smtpaccount.md)
   * [Enter your Email Sender settings](email-sender/email-sender-target/enter-your-email-sender-settings.md)
 
 ***
