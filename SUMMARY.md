@@ -28,22 +28,22 @@
 
 * [Box Source](box/box-source/README.md)
   * [Box overview](box/box-source/box-overview.md)
-  * [Configure your Box account](box/box-source/configure-your-box-account.md)
+  * [Configure your Box account](box/box-source/com-snaplogic-snaps-box-boxaccount.md)
   * [Select your Box data collection type](box/box-source/select-your-box-data-collection-type.md)
 * [Box Target](box/box-target/README.md)
   * [Box overview](box/box-target/box-overview.md)
-  * [Configure your Box account](box/box-target/configure-your-box-account.md)
+  * [Configure your Box account](box/box-target/com-snaplogic-snaps-box-boxaccount.md)
   * [Select your Box data collection type](box/box-target/select-your-box-data-collection-type.md)
 
 ## Google Sheets
 
 * [Google Sheets Source](google-sheets/google-sheets-source/README.md)
   * [Google Sheets overview](google-sheets/google-sheets-source/google-sheets-overview.md)
-  * [Configure your Google Sheets account](google-sheets/google-sheets-source/configure-your-google-sheets-account.md)
+  * [Configure your Google Sheets account](google-sheets/google-sheets-source/com-snaplogic-snaps-google-spreadsheet-googlespreadsheetoauth2account.md)
   * [Enter your Google Spreadsheet information](google-sheets/google-sheets-source/enter-your-google-spreadsheet-information.md)
 * [Google Sheets Target](google-sheets/google-sheets-target/README.md)
   * [Google Sheets overview](google-sheets/google-sheets-target/google-sheets-overview.md)
-  * [Configure your Google Sheets account](google-sheets/google-sheets-target/configure-your-google-sheets-account.md)
+  * [Configure your Google Sheets account](google-sheets/google-sheets-target/com-snaplogic-snaps-google-spreadsheet-googlespreadsheetoauth2account.md)
   * [Enter your Google Spreadsheet information](google-sheets/google-sheets-target/enter-your-google-spreadsheet-information.md)
 
 ## REST
@@ -111,15 +111,15 @@
 ## Sharepoint Online
 
 * [SharePoint Online Source](sharepoint-online/sharepoint-online-source/README.md)
-  * [SharePoint Online overview](sharepoint-online/sharepoint-online-source/sharepoint-overview.md)
+  * [SharePoint Online overview](sharepoint-online/sharepoint-online-source/sharepoint-online-overview.md)
   * [Select your SharePoint Online account type](sharepoint-online/sharepoint-online-source/select-your-sharepoint-online-account-type.md)
-  * [Configure your SharePoint Online account](sharepoint-online/sharepoint-online-source/configure-your-sharepoint-online-account-settings.md)
-  * [Select your SharePoint Online data source type](sharepoint-online/sharepoint-online-source/select-your-sharepoint-data-source-type.md)
+  * [Configure your SharePoint Online account](sharepoint-online/sharepoint-online-source/com-rojoconsultancy-snaps-sharepointonline-account-sharepointonlineaccount.md)
+  * [Select your SharePoint Online data source type](sharepoint-online/sharepoint-online-source/select-your-sharepoint-online-data-source-type.md)
 * [SharePoint Online Target](sharepoint-online/sharepoint-online-target/README.md)
   * [SharePoint Online overview](sharepoint-online/sharepoint-online-target/sharepoint-online-overview.md)
   * [Select your SharePoint Online account type](sharepoint-online/sharepoint-online-target/select-your-sharepoint-online-account-type.md)
-  * [Configure your SharePoint Online account](sharepoint-online/sharepoint-online-target/configure-your-sharepoint-online-account-settings.md)
-  * [Select your SharePoint Online data delivery type](sharepoint-online/sharepoint-online-target/configure-sharepoint-online-data-delivery-type.md)
+  * [Configure your SharePoint Online account](sharepoint-online/sharepoint-online-target/com-rojoconsultancy-snaps-sharepointonline-account-sharepointonlineaccount.md)
+  * [Select your SharePoint Online data delivery type](sharepoint-online/sharepoint-online-target/select-your-sharepoint-online-data-delivery-type.md)
 
 ## ServiceNow
 
@@ -156,14 +156,14 @@
 * [Jira Source](jira/jira-source/README.md)
   * [Jira overview](jira/jira-source/jira-overview.md)
   * [Select your Jira account type](jira/jira-source/select-your-jira-account-type.md)
-  * [Configure your Jira basic auth account](jira/jira-source/enter-your-jira-account-information.md)
-  * [Configure your Jira anonymous account](jira/jira-source/configure-your-jira-anonymous-account.md)
+  * [Configure your Jira basic auth account](jira/jira-source/com-snaplogic-snaps-jira-jirabasicauthaccount.md)
+  * [Configure your Jira anonymous account](jira/jira-source/com-snaplogic-snaps-jira-jiraanonymousaccount.md)
   * [Select your Jira data source type](jira/jira-source/select-your-jira-data-source-type.md)
 * [Jira Target](jira/jira-target/README.md)
   * [Jira overview](jira/jira-target/jira-overview.md)
   * [Select your Jira account type](jira/jira-target/select-your-jira-account-type.md)
-  * [Configure your Jira basic auth account](jira/jira-target/enter-your-jira-account-information.md)
-  * [Configure your Jira anonymous account](jira/jira-target/configure-your-jira-anonymous-account.md)
+  * [Configure your Jira basic auth account](jira/jira-target/com-snaplogic-snaps-jira-jirabasicauthaccount.md)
+  * [Configure your Jira anonymous account](jira/jira-target/com-snaplogic-snaps-jira-jiraanonymousaccount.md)
   * [Select your Jira data source type](jira/jira-target/select-your-jira-data-source-type.md)
 
 ## From Pipeline
