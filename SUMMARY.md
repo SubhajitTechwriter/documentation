@@ -177,13 +177,13 @@
 
 * [Microsoft Dynamics 365 Source](microsoft-dynamics-365/microsoft-dynamics-365-source/README.md)
   * [Microsoft Dynamics 365 for Sales overview](microsoft-dynamics-365/microsoft-dynamics-365-source/microsoft-dynamics-365-for-sales-overview.md)
-  * [Select your Microsoft Dynamics 365 for Sales account type](microsoft-dynamics-365/microsoft-dynamics-365-source/account\_overview.md)
-  * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-source/configure-your-microsoft-dynamics-365-for-sales-account.md)
+  * [Select your Microsoft Dynamics 365 for Sales account type](microsoft-dynamics-365/microsoft-dynamics-365-source/select-your-microsoft-dynamics-365-for-sales-account-type.md)
+  * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-source/com-snaplogic-snaps-dynamics365forsales-common-dynamics365salesoauth2account.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft-dynamics-365/microsoft-dynamics-365-source/select-your-microsoft-dynamics-365-for-sales-object-type.md)
 * [Microsoft Dynamics 365 Target](microsoft-dynamics-365/microsoft-dynamics-365-target/README.md)
   * [Microsoft Dynamics 365 for Sales Overview](microsoft-dynamics-365/microsoft-dynamics-365-target/microsoft-dynamics-365-for-sales-overview.md)
-  * [Select your Microsoft Dynamics 365 for Sales account type](microsoft-dynamics-365/microsoft-dynamics-365-target/account\_overview.md)
-  * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-target/configure-your-microsoft-dynamics-365-for-sales-account.md)
+  * [Select your Microsoft Dynamics 365 for Sales account type](microsoft-dynamics-365/microsoft-dynamics-365-target/select-your-microsoft-dynamics-365-for-sales-account-type.md)
+  * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-target/com-snaplogic-snaps-dynamics365forsales-common-dynamics365salesoauth2account.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft-dynamics-365/microsoft-dynamics-365-target/select-your-microsoft-dynamics-365-for-sales-object-type.md)
 
 ## MS Teams
@@ -191,8 +191,8 @@
 * [MS Teams Target](ms-teams/ms-teams-target/README.md)
   * [MS Teams Overview](ms-teams/ms-teams-target/ms-teams-overview.md)
   * [Select your MS Teams Account Type](ms-teams/ms-teams-target/select-your-ms-teams-account-type.md)
-  * [Configure your Dynamic OAuth2 Account](ms-teams/ms-teams-target/configure-your-dynamic-oauth2-account.md)
-  * [Configure your OAuth2 User Account](ms-teams/ms-teams-target/configure-your-oauth2-user-account.md)
+  * [Configure your Dynamic OAuth2 Account](ms-teams/ms-teams-target/com-snaplogic-snaps-microsoft-teams-account-teamsdynamicoauth2account.md)
+  * [Configure your OAuth2 User Account](ms-teams/ms-teams-target/com-snaplogic-snaps-microsoft-teams-account-teamsoauth2useraccount.md)
   * [Enter your MS Teams information](ms-teams/ms-teams-target/enter-your-ms-teams-information.md)
 
 ## My SQL
@@ -200,8 +200,8 @@
 * [My SQL Target](my-sql/my-sql-target/README.md)
   * [MySQL overview](my-sql/my-sql-target/mysql-overview.md)
   * [Select your MySQL account type](my-sql/my-sql-target/select-your-mysql-account-type.md)
-  * [Configure your MySQL Database account](my-sql/my-sql-target/configure-your-mysql-database-account.md)
-  * [Configure your MySQL Dynamic account](my-sql/my-sql-target/configure-your-mysql-dynamic-account.md)
+  * [Configure your MySQL Database account](my-sql/my-sql-target/com-snaplogic-snap-api-sql-accounts-mysqldatabaseaccount.md)
+  * [Configure your MySQL Dynamic account](my-sql/my-sql-target/com-snaplogic-snap-api-sql-accounts-mysqldynamicaccount.md)
   * [Enter your MySQL schema information](my-sql/my-sql-target/enter-your-mysql-schema-information.md)
 
 ## Slack
@@ -209,9 +209,9 @@
 * [Slack Target](slack/slack-target/README.md)
   * [Slack overview](slack/slack-target/slack-overview.md)
   * [Select your Slack account type](slack/slack-target/select-your-slack-account-type.md)
-  * [Configure your Slack Dynamic OAuth2 account](slack/slack-target/configure-your-slack-dynamic-oauth2-account.md)
-  * [Configure your Slack Generic OAuth2 Bot Token account](slack/slack-target/configure-your-slack-generic-oauth2-bot-token-account.md)
-  * [Configure your Slack Generic OAuth2 User Token account](slack/slack-target/configure-your-slack-generic-oauth2-user-token-account.md)
+  * [Configure your Slack Dynamic OAuth2 account](slack/slack-target/com-snaplogic-snaps-slack-dynamicoauth2account.md)
+  * [Configure your Slack Generic OAuth2 Bot Token account](slack/slack-target/com-snaplogic-snaps-slack-bottokenoauth2account.md)
+  * [Configure your Slack Generic OAuth2 User Token account](slack/slack-target/com-snaplogic-snaps-slack-usertokenoauth2account.md)
   * [Enter your Slack settings](slack/slack-target/enter-your-slack-settings.md)
 
 ## Email Sender
