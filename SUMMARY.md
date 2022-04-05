@@ -27,13 +27,13 @@
 ## Box
 
 * [Box Source](box/box-source/README.md)
-  * [Box overview](box/box-source/box\_overview.md)
-  * [Configure your Box account](box/box-source/box\_account.md)
-  * [Select your Box data collection type](box/box-source/box\_file\_type.md)
+  * [Box overview](box/box-source/box-overview.md)
+  * [Configure your Box account](box/box-source/configure-your-box-account.md)
+  * [Select your Box data collection type](box/box-source/select-your-box-data-collection-type.md)
 * [Box Target](box/box-target/README.md)
-  * [Box overview](box/box-target/trg\_box\_overview.md)
-  * [Configure your Box account](box/box-target/trg\_box\_account\_settings.md)
-  * [Select your Box data collection type](box/box-target/trg\_box\_file\_type.md)
+  * [Box overview](box/box-target/box-overview.md)
+  * [Configure your Box account](box/box-target/configure-your-box-account.md)
+  * [Select your Box data collection type](box/box-target/select-your-box-data-collection-type.md)
 
 ## Google Sheets
 
