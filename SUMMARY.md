@@ -222,6 +222,17 @@
   * [Configure the Email Sender account settings](email-sender/email-sender-target/com-snaplogic-snaps-email-smtpaccount.md)
   * [Enter your Email Sender settings](email-sender/email-sender-target/enter-your-email-sender-settings.md)
 
+## S3 File Reader
+
+* [S3 File Reader Source](s3-file-reader/s3-file-reader-source/README.md)
+  * [S3 File Reader overview](s3-file-reader/s3-file-reader-source/s3-file-reader-overview.md)
+  * [Select your S3 File Reader account type](s3-file-reader/s3-file-reader-source/select-your-s3-file-reader-account-type.md)
+  * [Configure your AWS S3 account](s3-file-reader/s3-file-reader-source/com-snaplogic-snaps-binary-binarys3account.md)
+* [S3 File Writer Target](s3-file-reader/s3-file-writer-target/README.md)
+  * [S3 File Writer overview](s3-file-reader/s3-file-writer-target/s3-file-writer-overview.md)
+  * [Select your S3 File Writer account type](s3-file-reader/s3-file-writer-target/select-your-s3-file-writer-account-type.md)
+  * [Configure your AWS S3 account](s3-file-reader/s3-file-writer-target/com-snaplogic-snaps-binary-binarys3account.md)
+
 ***
 
 * [End Flow](end-flow/README.md)
