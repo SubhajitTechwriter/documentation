@@ -1,6 +1,6 @@
 # Configure your AWS S3 account
 
-Enter the following details for your AWS S3 account:&#x20;
+1. Enter the following details for your AWS S3 account:&#x20;
 
 * **Label:** Enter a unique name to help identify your S3 File Reader AWS S3 account in Flows. For example, _s3\_sales\_account_, if you are part of the sales team.
 * **Access-key ID:** Unique access key ID part of AWS authentication.
@@ -18,3 +18,9 @@ The available options are:
 * **IAM role**: Select this checkbox to use the IAM role stored in the EC2 instance, instead of the normal AWS authentication, to access the S3 bucket.
 * **Role ARN**: The Amazon Resource Name (ARN) of the role to assume.
 * **External ID**: An optional external ID that might be required by the role to assume.
+
+2\. Click any one of the following:
+
+* **Apply** to save your account information in Flows.
+* **Validate** to verify if your account information is valid by connecting Flows with your AWS S3 account.
+* **Cancel** to return to the previous screen.
