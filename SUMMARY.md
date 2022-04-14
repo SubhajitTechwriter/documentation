@@ -17,7 +17,7 @@
   * [Select your Salesforce object type](salesforce/salesforce-source/select-your-salesforce-object-type.md)
 * [Salesforce Target](salesforce/salesforce-target/README.md)
   * [Salesforce overview](salesforce/salesforce-target/salesforce-overview.md)
-  * [Select your Salesforce account type](salesforce/salesforce-target/copy-of-select-your-salesforce-account-type.md)
+  * [Select your Salesforce account type](salesforce/salesforce-target/select-your-salesforce-account-type.md)
   * [Configure your Salesforce.com account](salesforce/salesforce-target/com-snaplogic-snaps-salesforce-salesforceaccount.md)
   * [Configure your Salesforce.com dynamic account](salesforce/salesforce-target/com-snaplogic-snaps-salesforce-salesforcedynamicaccount.md)
   * [Configure your Salesforce.com Oauth2 account](salesforce/salesforce-target/com-snaplogic-snaps-salesforce-salesforceoauth2account.md)
