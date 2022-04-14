@@ -2,7 +2,7 @@
 
 Select any of the available **Object types** from where your data will be sourced for this Flows configuration.
 
-* **Add Account**: \*\*\*\* Select this object type to add an Account.
+* **Add Account**: Select this object type to add an Account.
 * **Add Lead**: Select this object type to add a Lead.
 * **Add Contact**: Select this object type to add a Contact.
 * **Add Opportunity**: Select this object type to add an Opportunity.
@@ -14,7 +14,7 @@ Select any of the available **Object types** from where your data will be source
 * **Update Opportunity**: Select this object type to update an Opportunity.
 * **Update another object**: Select this to update another object type.
   * In **Object type**, enter or select the object type from the dropdown.
-* **Delete Account**: \*\*\*\* Select this object type to delete an account.
+* **Delete Account**: Select this object type to delete an account.
 * **Delete Contact**: Select this object type to delete a contact.
 
 {% hint style="info" %}
