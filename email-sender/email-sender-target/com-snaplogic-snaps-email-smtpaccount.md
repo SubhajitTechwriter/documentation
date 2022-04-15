@@ -18,3 +18,8 @@ Configure the Email Sender account settings as follows:
 * **Mail properties**
   * **Mail property name**: Enter the property name
   * **Mail property value**: Enter the property value
+
+Click any one of the following:
+
+* **Apply** to save your account information in Flows.
+* **Cancel** to return to the previous screen.
