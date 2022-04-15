@@ -23,8 +23,4 @@ You can choose any of the available **Data Collection Types** to indicate where 
 
 * Specify the **name** of the campaign you want or choose from the dropdown.
 
-**Get Program by Name:** Select this option to get the program with the specified ID.
-
-* Specify the **name** of the program you want or choose from the dropdown.
-
 Use the **Filter Data** option to filter the incoming data uploaded by the source endpoint. Once a filter is applied, you can view it in the **Data Wrangler** and further edit the filter condition.
