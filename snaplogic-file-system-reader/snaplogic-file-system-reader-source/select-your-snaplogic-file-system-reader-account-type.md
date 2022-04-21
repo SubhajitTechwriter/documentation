@@ -5,7 +5,6 @@
 3. Click **Continue**.
 
 {% hint style="info" %}
-You can click **Choose Account Later** to go back to select an account from the dropdown list.
-
+You can click **Choose Account Later** to go back to selecting an account from the dropdown list.
 You can get the account information from your IT admin or by logging into your Salesforce account.
 {% endhint %}
