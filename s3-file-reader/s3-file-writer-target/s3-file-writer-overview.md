@@ -35,4 +35,4 @@ You can also select any one of the available data collection types to start your
 
 Use the **Map Data** option to apply the mapping between fields uploaded by the source endpoint to the same of the target endpoint.
 
-Click **Save and Continue**.
+Click **Save and continue**.

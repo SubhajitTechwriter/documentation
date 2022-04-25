@@ -120,7 +120,7 @@
   * [SharePoint Online overview](sharepoint-online/sharepoint-online-target/sharepoint-online-overview.md)
   * [Select your SharePoint Online account type](sharepoint-online/sharepoint-online-target/select-your-sharepoint-online-account-type.md)
   * [Configure your SharePoint Online account](sharepoint-online/sharepoint-online-target/com-rojoconsultancy-snaps-sharepointonline-account-sharepointonlineaccount.md)
-  * [Select your SharePoint Online data delivery type](sharepoint-online/sharepoint-online-target/select-your-sharepoint-online-data-delivery-type.md)
+  * [Select your SharePoint Online data source type](sharepoint-online/sharepoint-online-target/select-your-sharepoint-online-data-source-type.md)
 
 ## ServiceNow
 
