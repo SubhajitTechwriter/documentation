@@ -48,3 +48,7 @@ You can also choose any one of the available data collection types to start your
   * _Append_ - _Append_ is supported for file, FTP, FTPS, and SFTP protocols only.
   * _Ignore_ - If _Ignore_ is selected, it writes the status and file name to its output view.
   * _Error_ - If _Error_ is selected, the error is displayed in the Run Log.
+
+Use the **Map Data** option to apply the mapping between fields uploaded by the source endpoint to the same of the target endpoint.
+
+Click **Save and continue**.
