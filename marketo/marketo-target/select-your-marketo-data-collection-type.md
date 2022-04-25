@@ -12,4 +12,6 @@ Select any one of the following available **Data Collection Types** to write you
 
 **Upsert Lead in bulk**: Select this data collection type to upsert a large number of leads into the Lead database.
 
+**Clone Program**: Select this data collection type to clone an entire program and all its assets.&#x20;
+
 Use the **Map Data** option to apply the mapping between the data of fields uploaded by the source endpoint to the same of the target endpoint.
