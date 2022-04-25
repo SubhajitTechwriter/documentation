@@ -14,22 +14,22 @@ Select your action and configure how your data will be flowing from the selected
 * **Update Opportunity**: Select it to update an Opportunity.
 * **Update another object**: Select it to update another object type.
   * In **Object type**, enter or select the object type from the dropdown.
-* **Upsert Account:** select it to **** upsert an account.&#x20;
+* **Upsert Account:** select it to upsert an account.
   * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.&#x20;
-* **Upsert Contact:** select it to **** upsert a contact.&#x20;
+* **Upsert Contact:** select it to upsert a contact.
   * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.
-* **Upsert Lead:** select it to **** upsert a contact.&#x20;
+* **Upsert Lead:** select it to upsert a contact.
   * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.
-* **Upsert Opportunity:** select it to **** upsert an opportunity.&#x20;
+* **Upsert Opportunity:** select it to upsert an opportunity.
   * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.
-* **Upsert another object:** select it to **** upsert another object.&#x20;
+* **Upsert another object:** select it to upsert another object.
   * In **Object type**, enter or select the object type from the dropdown.
   * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.
 * **Delete Account**: Select it to delete an account.
 * **Delete Contact**: Select it to delete a contact.
 * **Delete Lead**: Select it to delete a lead.
 * **Delete Opportunity**: Select it to delete an opportunity.
-* **Delete another object**: Select it to delete another object.&#x20;
+* **Delete another object**: Select it to delete another object.
   * In **Object type**, enter or select the object type from the dropdown.
 
 {% hint style="info" %}
