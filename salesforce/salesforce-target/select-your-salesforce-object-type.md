@@ -14,17 +14,6 @@ Select your action and configure how your data will be flowing from the selected
 * **Update Opportunity**: Select it to update an Opportunity.
 * **Update another object**: Select it to update another object type.
   * In **Object type**, enter or select the object type from the dropdown.
-* **Upsert Account:** select it to **** upsert an account.&#x20;
-  * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.&#x20;
-* **Upsert Contact:** select it to **** upsert a contact.&#x20;
-  * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.
-* **Upsert Lead:** select it to **** upsert a contact.&#x20;
-  * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.
-* **Upsert Opportunity:** select it to **** upsert an opportunity.&#x20;
-  * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.
-* **Upsert another object:** select it to **** upsert another object.&#x20;
-  * In **Object type**, enter or select the object type from the dropdown.
-  * In **External-ID Field**, enter or select an external ID field that represents the unique externalized key of the object.
 * **Delete Account**: Select it to delete an account.
 * **Delete Contact**: Select it to delete a contact.
 * **Delete Lead**: Select it to delete a lead.
