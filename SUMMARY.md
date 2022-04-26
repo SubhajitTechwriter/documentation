@@ -22,7 +22,7 @@
   * [Configure your Salesforce.com dynamic account](salesforce/salesforce-target/com-snaplogic-snaps-salesforce-salesforcedynamicaccount.md)
   * [Configure your Salesforce.com Oauth2 account](salesforce/salesforce-target/com-snaplogic-snaps-salesforce-salesforceoauth2account.md)
   * [Configure your Salesforce.com Mutual Authentication account](salesforce/salesforce-target/com-snaplogic-snaps-salesforce-salesforcemutualauthaccount.md)
-  * [Select your action for a Salesforce object type](salesforce/salesforce-target/select-your-salesforce-object-type.md)
+  * [Select your Salesforce object type](salesforce/salesforce-target/select-your-salesforce-object-type.md)
 
 ## Box
 

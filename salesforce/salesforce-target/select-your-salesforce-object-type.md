@@ -1,6 +1,6 @@
-# Select your action for a Salesforce object type
+# Select your Salesforce object type
 
-Select your action and configure how your data will be flowing from the selected source:&#x20;
+Select your **Object type** and configure how your data will be flowing from the selected source:&#x20;
 
 * **Add Account**: Select it to add an Account.
 * **Add Lead**: Select it to add a Lead.
