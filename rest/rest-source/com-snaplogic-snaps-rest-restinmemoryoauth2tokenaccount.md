@@ -16,7 +16,7 @@ Enter the following details for your REST In-memory OAuth2 account:
   * **Authentication parameter**: Defines an optional authorization endpoint parameter.
   * **Authentication parameter value**: The value associated with the optional authorization endpoint parameter defined above.
 * **Auto-refresh token**: Select this checkbox to refresh the token automatically using the refresh token, if the property is enabled. If this property is deselected, the token expires and is not refreshed automatically.
-* **Authorize:** Click it **** to authorize the REST OAuth2 SSL account using the credentials provided.
+* **Authorize:** Click it to authorize the REST OAuth2 SSL account using the credentials provided.
 * **Send Client Data as Basic Auth header**: Select this checkbox when you want to send the client information as a header to the OAuth endpoint.
 * Click any one of the following:
   * **Apply** to save your account information in Flows.
