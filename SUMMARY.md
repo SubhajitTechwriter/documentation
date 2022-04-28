@@ -58,7 +58,7 @@
   * [Configure your REST OAuth1 account](rest/rest-source/com-snaplogic-snaps-rest-restoauth1account.md)
   * [Configure your REST OAuth2 account](rest/rest-source/com-snaplogic-snaps-rest-restoauth2account.md)
   * [Configure your REST OAuth2 SSL account](rest/rest-source/com-snaplogic-snaps-rest-restssloauth2account.md)
-  * [Configure your REST In-memory OAuth2 account](rest/rest-source/com-snaplogic-snaps-rest-restssloauth2account-1.md)
+  * [Configure your REST In-memory OAuth2 account](rest/rest-source/com-snaplogic-snaps-rest-restinmemoryoauth2tokenaccount.md)
   * [Configure your REST SSL account](rest/rest-source/com-snaplogic-snaps-rest-restsslaccount.md)
   * [Enter your REST Service URL](rest/rest-source/enter-your-rest-service-url.md)
 
