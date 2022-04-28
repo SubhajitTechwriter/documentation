@@ -186,7 +186,7 @@
   * [Microsoft Dynamics 365 for Sales Overview](microsoft-dynamics-365/microsoft-dynamics-365-target/microsoft-dynamics-365-for-sales-overview.md)
   * [Select your Microsoft Dynamics 365 for Sales account type](microsoft-dynamics-365/microsoft-dynamics-365-target/select-your-microsoft-dynamics-365-for-sales-account-type.md)
   * [Configure your Microsoft Dynamics 365 for Sales account](microsoft-dynamics-365/microsoft-dynamics-365-target/com-snaplogic-snaps-dynamics365forsales-common-dynamics365salesoauth2account.md)
-  * [Configure your Dynamics 365 NTLM account](microsoft-dynamics-365/microsoft-dynamics-365-target/com-snaplogic-snaps-dynamics365forsales-common-dynamics365salesoauth2account-1.md)
+  * [Configure your Dynamics 365 NTLM account](microsoft-dynamics-365/microsoft-dynamics-365-target/com-snaplogic-snaps-dynamics365forsales-common-dynamics365ntlmaccount.md)
   * [Select your Microsoft Dynamics 365 for Sales object type](microsoft-dynamics-365/microsoft-dynamics-365-target/select-your-microsoft-dynamics-365-for-sales-object-type.md)
 
 ## MS Teams
