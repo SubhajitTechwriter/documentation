@@ -1,8 +1,5 @@
 # Select your MS Teams Account Type
 
-Select your Location where you want to save your Flow and your Account Type.
-
-You can select any of the following Account Types:
-
-* **Teams Dynamic OAuth2 Account**: Use this Account Type to connect with data sources that use dynamic OAuth2 account.
-* **Teams OAuth2 User Account**: Use this Account Type to connect with data sources that use Teams OAuth2 User Account.
+1. Select the project **Location** to save your account information. The default shared option will share the account with all the other Flows users.
+2. Select the **Account Type** as configured in your MS Teams instance.
+3. Click **Continue**.

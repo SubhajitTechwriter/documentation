@@ -1,5 +1,5 @@
-# Select your Email Sender Account Type
+# Select your Email Sender account type
 
-Select your **Location** where you want to save your Flow.&#x20;
-
-Select _SMTP account_ as your **Account Type** to connect with data sources that use SMTP Account.
+1. Select the project **Location** to save your account information. The default shared option will share the account with all the other Flows users.
+2. Select the **Account Type** as configured in your Email Sender instance.
+3. Click **Continue**.
