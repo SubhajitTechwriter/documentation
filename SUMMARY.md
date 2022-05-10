@@ -38,6 +38,8 @@
 ## Google Sheets
 
 * [Google Sheets Source](google-sheets/google-sheets-source/README.md)
+  * [Select how to handle incoming data](google-sheets/google-sheets-source/select-how-to-handle-incoming-data.md)
+  * [Configure your external event](google-sheets/google-sheets-source/configure-your-external-event.md)
   * [Google Sheets overview](google-sheets/google-sheets-source/google-sheets-overview.md)
   * [Configure your Google Sheets account](google-sheets/google-sheets-source/com-snaplogic-snaps-google-spreadsheet-googlespreadsheetoauth2account.md)
   * [Enter your Google Spreadsheet information](google-sheets/google-sheets-source/enter-your-google-spreadsheet-information.md)
