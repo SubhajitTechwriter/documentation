@@ -5,3 +5,7 @@ Webhook automatically generates an external URL to help you configure your exter
 1. Copy the URL and use the link to set up the external event you want reported in your account.
 2. Once your event is configured, click **Start Listening**.
 3. After an event occurs, click **Continue**.
+
+{% hint style="warning" %}
+This endpoint currently only supports JSON data and other types of incoming data may not work correctly. Please use the **Read from a Pipeline** endpoint for other data types.
+{% endhint %}
