@@ -227,6 +227,11 @@
   * [Configure the Email Sender account settings](email-sender/email-sender-target/com-snaplogic-snaps-email-smtpaccount.md)
   * [Enter your Email Sender settings](email-sender/email-sender-target/enter-your-email-sender-settings.md)
 
+## Triggered Event
+
+* [Triggered Event Source](triggered-event/triggered-event-source/README.md)
+  * [Configure your external event](triggered-event/triggered-event-source/configure-your-external-event.md)
+
 ## S3 File Reader
 
 * [S3 File Reader Source](s3-file-reader/s3-file-reader-source/README.md)
