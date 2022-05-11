@@ -10,13 +10,13 @@ You can get the account information from your IT admin or by logging into your G
 * In **Approval Prompt**:
   * Select _auto_ to display the consent prompt for the first time through the OAuth 2.0 authorization sequence.
   * Select _force_ to manually acquire a new refresh token.
-* **Application scope: D**efine the scope for the execution of the application.
+* **Application scope**: Define the scope for the execution of the application.
 * Click **Authorize.** You will be directed to the login page of your Google Sheets account.
 * Log in with user credentials and grant permissions. You must grant permission to connect your Google Sheets account with Flows.
 * Select the **Auto-refresh token** if you want to refresh the token automatically using the refresh token of your Google Sheets account.
 * Click **Validate** to validate the account details.
-*   Click **Apply** to save your account information in Flows.\
-    OR\
+*   Click **Apply** to save your account information in Flows.
+    OR
     Click **Cancel** to return to the previous screen.
 
     {% hint style="info" %}
